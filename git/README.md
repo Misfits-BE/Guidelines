@@ -140,7 +140,7 @@ Als een commit naar een andere commit word geduwd, gebruik dan respectievelijk d
 $ git coommit --squash f387cab2
 ```
 
-*(**Tip:** Gebruik de `--autosquash parameter wanneer je een rebase uitvoerd. De gemarkeerde commits zullen automatisch worden samengevoegd.`)*
+*(**Tip:** Gebruik de `--autosquash` parameter wanneer je een rebase uitvoerd. De gemarkeerde commits zullen automatisch worden samengevoegd.)*
 
 ### Merging 
 
