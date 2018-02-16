@@ -47,7 +47,7 @@ Merge all personlijke branch naar de teambrede branch (See ["Merging"](#merging)
 
 * Verwijder jouw branch van de upstream repository wanneer de Pull Request met wijzigingen is ingevoegd, tenzij er een specifieke reden omtrent het behoud van de branch. 
 
-***Tip:***: Gebruik het volgende commando wanneer je in de "Master branch" zit, voor het weergeven van de branches die zijn ingevoegd: 
+* **Tip:***: Gebruik het volgende commando wanneer je in de "Master branch" zit, voor het weergeven van de branches die zijn ingevoegd: 
 
 ```
 $ git branch --merged | grep -v "\*"
